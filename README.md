@@ -14,6 +14,7 @@
 source: [git](https://git-scm.com/docs)
 
 - **IF ANY OF THE REQUIREMENTS ARE NOT FULFILLED YOU WILL GET AN ❌**
+- **이번 과제는 Step1 만 있습니다.**
 
 - ex) If you succefull
 - Result: ✅
